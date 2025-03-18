@@ -4,14 +4,9 @@
     # using Python's AutoViz.
 
     # Developed By: 
-        # Name: Mohini T
-        # Role: Intern, PreProd Corp
-        # Code ownership rights: Mohini T, PreProd Corp
-    
-    # Version:
-        # v1.0 Initial version. [Date: 27-12-2024]
-        # v1.1 Added individual forms for all arguments and terminal output display during visualization generation. [Date: 03-01-2025]
-        # v1.2 Added success and error messages for setting arguments and handling user errors. [Date: 07-01-2025]
+        # Name: Mohini Tiwari
+        # Role: Developer
+        # Code ownership rights: Mohini Tiwari
 
 # CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 

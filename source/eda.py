@@ -1,16 +1,11 @@
 # METADATA [eda.py] - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-    # Description: This code script
+    # Description: This code script contains the function to visualize the data using the AutoViz library.
 
     # Developed By: 
-        # Name: Mohini T
-        # Role: Intern, PreProd Corp
-        # Code ownership rights: Mohini T, PreProd Corp
-    
-    # Version:
-        # v1.0 Initial version. [Date: 27-12-2024]
-        # v1.1 Refactored the visualize_data function for better readability and maintainability. [Date: 03-01-2025]
-        # v1.1.1 Made minor changes to the explanatory comments. [Date: 07-01-2025]
+        # Name: Mohini Tiwari
+        # Role: Developer
+        # Code ownership rights: Mohini Tiwari
 
 # CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
