@@ -29,7 +29,7 @@ lorem ipsum dolor sit amet
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PreProd-Internship/DIY-Python-AutoViz
+git clone https://github.com/VITB-Tigers/AutoViz-Python-Library
 ```
 
 2. Create and activate a virtual environment (recommended). If using Conda:
